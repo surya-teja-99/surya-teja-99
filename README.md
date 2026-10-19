@@ -1,4 +1,3 @@
-# Applied AI & ML Systems
 
 **CS PhD student @ Southwest Baptist University**
 
